@@ -13,11 +13,11 @@ public:
     pin_relevador = pin;
     pinMode(pin_relevador, OUTPUT);
   }
-  void encender()
+  void on()
   {
     digitalWrite(pin_relevador, HIGH);
   }
-  void apagar()
+  void off()
   {
     digitalWrite(pin_relevador, LOW);
   }
