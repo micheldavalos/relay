@@ -10,4 +10,4 @@ relay.on();
 relay.off()
 ```
 
-![Relay] (https://mechatrofice.com/wp-content/uploads/2017/03/relay-module-interface-arduino.png)
+![Relay](https://mechatrofice.com/wp-content/uploads/2017/03/relay-module-interface-arduino.png)
