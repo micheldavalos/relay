@@ -10,4 +10,8 @@ relay.on();
 relay.off()
 ```
 
-![Relay](https://mechatrofice.com/wp-content/uploads/2017/03/relay-module-interface-arduino.png)
+![Relay Arduino](https://mechatrofice.com/wp-content/uploads/2017/03/relay-module-interface-arduino.png)
+
+![Realy](https://hardwarehackingmx.wordpress.com/2013/07/26/leccion-17-arduino-utilizando-relevadores/)
+
+https://hardwarehackingmx.wordpress.com/2013/07/26/leccion-17-arduino-utilizando-relevadores/
